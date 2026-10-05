@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": "test-1",
+      "nombre": "Plato de Prueba 1",
+      "precio": 15000,
+      "categoria": "Principales",
+      "descripcion": "Plato de prueba para verificar el circuito."
+    },
+    {
+      "id": "test-2",
+      "nombre": "Plato de Prueba 2",
+      "precio": 12000,
+      "categoria": "Principales",
+      "descripcion": "Otro plato de prueba."
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-1",
+      "nombre": "Principales"
+    }
+  ],
+  "config": {
+    "estado_servicio": "activo",
+    "promo_activa": "false"
+  },
+  "tema": {}
+}
