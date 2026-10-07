@@ -38,8 +38,8 @@
     "colorHover": "#393939",
     "radioBordes": "8",
     "tamañoNavNegocio": 50,
-    "tamañoNavLink": 50,
-    "tamañoHeroEslogan": 50,
+    "tamañoNavLink": 14,
+    "tamañoHeroEslogan": 14,
     "tamañoHeroDescripcion": 50
   }
 }
