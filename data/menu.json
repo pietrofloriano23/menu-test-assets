@@ -1,11 +1,11 @@
 {
   "tema": {
     "colorPrimario": "#85ec41",
-    "colorFondo": "#000000",
-    "colorTexto": "#e2e2e2",
-    "colorTextoSuave": "#e3beba",
-    "colorTarjetas": "#0a0a0a",
-    "colorCarrito": "#1a1a1a",
+    "colorFondo": "#f70202",
+    "colorTexto": "#f001f4",
+    "colorTextoSuave": "#0c08fd",
+    "colorTarjetas": "#e818f7",
+    "colorCarrito": "#922a4a",
     "colorBordes": "#5b403e",
     "colorAcento": "#acc677",
     "colorSubtitulo": "#ffb3b1",
