@@ -22,7 +22,7 @@
     }
   ],
   "config": {
-    "estado_servicio": "suspendido",
+    "estado_servicio": "activo",
     "promo_activa": "false"
   },
   "tema": {
